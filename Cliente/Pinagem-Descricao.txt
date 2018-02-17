@@ -1,0 +1,23 @@
+
+veja a foto Pinagem-Raspberry.JPG
+
+HX711 --> Raspberry pi3
+DT(DO\RX)   -->  GPIO23
+CLK(CK\TX) --> GPIO24
+VCC --> 5v
+GND --> GND
+
+Botoes --> Raspberry pi3
+1     --> GPIO20
+2     --> GPIO21
+
+Motor --> Raspberry
+CP (CLOCK PULSE) --> GPIO18 
+CW (CLOCK WISE)  --> GPIO19 
+EN (ENABLE) --> GPIO26
+
+
+
+
+
+
